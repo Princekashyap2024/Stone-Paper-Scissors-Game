@@ -1,5 +1,3 @@
-#!/bin/bash
-cat << 'EOF' > README.md
 # Stone Paper Scissors Game
 
 [![GitHub Repo](https://img.shields.io/badge/Repo-Stone%20Paper%20Scissors-blue)](https://github.com/Princekashyap2024/Stone-Paper-Scissors-Game)
